@@ -1,7 +1,7 @@
 ## 0-III
 개인 프로젝트 모음
 
-### ReasonAIble
+### ReasonAIble (진행중)
 <img src="https://github.com/user-attachments/assets/3b1b39a3-773a-4064-844c-52c5028556f3" width="150"/>  
 
 > AI 변명 생성기  
