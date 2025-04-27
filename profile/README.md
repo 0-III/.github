@@ -2,6 +2,8 @@
 개인 프로젝트 모음
 
 ### ReasonAIble
+<img src="https://github.com/user-attachments/assets/3b1b39a3-773a-4064-844c-52c5028556f3" width="150"/>  
+
 > AI 변명 생성기  
 [Website](https://reasonaible.store) | [Backend](https://github.com/0-III/reasonAIble-be) | [Frontend](https://github.com/0-III/reasonAIble-fe)
 
