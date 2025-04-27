@@ -1,4 +1,10 @@
 ## 0-III
+개인 프로젝트 모음
+
+### ReasonAIble
+> AI 변명 생성기  
+[Website](https://reasonaible.store) | [Backend](https://github.com/0-III/reasonAIble-be) | [Frontend](https://github.com/0-III/reasonAIble-fe)
+
 
 <!--
 
